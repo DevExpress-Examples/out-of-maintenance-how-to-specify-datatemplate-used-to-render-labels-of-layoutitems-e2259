@@ -1,4 +1,4 @@
-﻿<Window x:Class="LabelTemplate_Ex.MainWindow"
+<Window x:Class="LabelTemplate_Ex.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:lc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"
