@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/LabelTemplate_Ex/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/LabelTemplate_Ex/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Specify DataTemplate used to render labels of LayoutItems
 
 
