@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LabelTemplate_Ex", "LabelTemplate_Ex\LabelTemplate_Ex.vbproj", "{B06414F9-3780-41E3-8DD5-C0EA796F866C}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabelTemplate_Ex", "LabelTemplate_Ex\LabelTemplate_Ex.Net5.csproj", "{B06414F9-3780-41E3-8DD5-C0EA796F866C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
